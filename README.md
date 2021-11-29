@@ -1,5 +1,4 @@
 # Boston_house_price
-线性回归预测波士顿房价-机器学习经典问题
-上海交通大学机器学习课程EE369-
-第一次大作业个人完成-
-经典问题
+我网上荡的，机器学习大作业标准答案
+愿意要的可以来fork
+尊重原作者：https://github.com/basaraking1221/Boston_house_price
